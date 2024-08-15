@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarahhussey
 - 👀 I’m interested in computers lol
-- 🌱 I’m currently learning Java, Python, SQL, data structures, information systems, etc
+- 🌱 I’m currently learning Java, Python, SQL, Raspberry Pi OS, information systems, etc
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me shussey0710@gmail.com
 - 😄 Pronouns: she/they
