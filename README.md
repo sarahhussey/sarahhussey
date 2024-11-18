@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sarahhussey
 - 👀 I’m interested in computers lol
-- 🌱 I’m currently learning Java, Python, SQL, Raspberry Pi OS, information systems, etc
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning Java, SQL, Raspberry Pi OS, information systems, etc
 - 📫 How to reach me shussey0710@gmail.com
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I have 3 cats and 1 dog.. I'm also in my sophmore year of college studying Computer Information Systems
